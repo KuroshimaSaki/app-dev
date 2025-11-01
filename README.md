@@ -1,2 +1,5 @@
 # app-dev
-My first repository
+**Title:** Jujutsu Kaisen  
+_Genre:_ Fantasy
+- Great characters  
+- Exciting plot twists  
