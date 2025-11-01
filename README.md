@@ -1,7 +1,7 @@
 # app-dev
 **Title:** Jujutsu Kaisen  
 _Genre:_ Dark Fantasy, Action
-** Characters**
+_Characters_
 - Yuji Itadori
 - Kugisaki Nobarra
 - Gojo Satorou
